@@ -18,7 +18,7 @@ A Zebble plugin that allow you to make grid in Zebble applications.
 ### Setup
 * Available on NuGet: [https://www.nuget.org/packages/Zebble.Grid/](https://www.nuget.org/packages/Zebble.Grid/)
 * Install in your platform client projects.
-* Available for iOS, Android and UWP.
+* Available for iOS, Android and Windows.
 <br>
 
 
